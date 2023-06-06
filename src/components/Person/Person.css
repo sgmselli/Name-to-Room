@@ -1,0 +1,16 @@
+.Person {
+    background-color: rgb(235, 235, 235);
+    border-radius: 15px;
+    font-family:'ArchivoBlack-Regular';
+    
+    width:fit-content;
+    padding:0.6rem 1.5rem 0.6rem 1rem;
+}
+
+.Person h4 {
+    font-size: 1rem;
+}
+
+.Person p {
+    font-size: 0.6rem;
+}
